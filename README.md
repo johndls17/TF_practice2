@@ -1,2 +1,2 @@
 # TF_practice2
-COmputer vision example
+Computer vision example
